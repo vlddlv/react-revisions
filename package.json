@@ -1,0 +1,26 @@
+{
+  "name": "react-revisions",
+  "version": "1.0.0",
+  "description": "Manage build revisions for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlddlv/react-revisions.git"
+  },
+  "keywords": [
+    "react",
+    "revision",
+    "build",
+    "history",
+    "publish"
+  ],
+  "author": "Vladimir Kokovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vlddlv/react-revisions/issues"
+  },
+  "homepage": "https://github.com/vlddlv/react-revisions#readme"
+}
